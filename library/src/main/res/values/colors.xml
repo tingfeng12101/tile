@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--透明-->
+    <color name="transparent">#00ffffff</color>
+
+    <color name="transparent2">#39454c</color>
+    <color name="textHint">#99bea0</color>
+    <color name="white">#ffffff</color>
+    <color name="text_color2">#12074a</color>
+
+    <color name="red1">#FF0000</color>
+    <color name="red2">#EE1493</color>
+    <color name="red3">#FF8C00</color>
+    <color name="red4">#FDEA9F</color>
+    <color name="text_color6">#982E04</color>
+    <color name="hint_color">#FA5A5C</color>
+    <color name="gray">#958D8D</color>
+
+    <color name="green">#00FF00</color>
+    <color name="greenNew">#0C9C0C</color>
+    <color name="yellow">#F7FF00</color>
+
+    <color name="lb_color">#021444</color>
+    <color name="menu_color2">#81330D</color>
+
+    <color name="topic_color1">#551607</color>
+    <color name="topic_color2">#DBA97D</color>
+    <color name="topic_color3">#624429</color>
+
+    <color name="ku_color1">#711401</color>
+
+</resources>
